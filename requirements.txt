@@ -1,0 +1,8 @@
+# txt
+flask
+pdfplumber
+spacy
+scikit-learn
+
+# Optional - later
+sentence-transformers
